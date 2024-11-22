@@ -1,0 +1,77 @@
+[
+    {
+    "name":"OPPO 7 5G",
+    "price":34000,
+    "desc":"OPPO brand with latest version of mobile phone with 5G",
+    "rating":4.8,
+    "images":[
+        {
+            "image":"/downloads/img/Oppo Mobile Phones.jpg"
+        },
+        {
+            "image":"/downloads/img/Oppo Mobile Phones.jpg"
+
+        }
+    ],
+    "category":"Mobile Phones",
+    "seller":"Amazon",
+    "stock":5
+},
+{
+    "name":"Vivo 7 5G",
+    "price":22000,
+    "desc":"Vivo brand with latest version of mobile phone with 5G",
+    "rating":4.2,
+    "images":[
+        {
+            "img":"/downloads/img/Vivo V23 5G Mobile.jpg"
+        },
+        {
+            "img":"/downloads/img/Vivo V23 5G Mobile.jpg"
+
+        }
+    ],
+    "category":"Mobile Phones",
+    "seller":"Filpkart",
+    "stock":10
+},
+{
+    "name":"Kurti cotton with XL Yello",
+    "price":880,
+    "desc":"Max brand kurti with good quality of cotton material",
+    "rating":4.9,
+    "images":[
+        {
+            "image":"/downloads/img/Fancy Zalar.jpg"
+
+        },
+        {
+            "image":"/downloads/img/Fancy Zalar.jpg"
+        }
+    ],
+    "category":"Dress",
+    "seller":"Ajio",
+    "stock":9
+},
+
+{
+    "name":"Cotton Kurti XL Red",
+    "price":800,
+    "desc":"Trends brand coton kurti with the good quality",
+    "rating":4.9,
+    "images":[
+        {
+            "image":"/downloads/img/Party Wear.jpg"
+
+        },
+        {
+            "image":"/downloads/img/Party Wear.jpg"
+        }
+    ],
+    "category":"Dress",
+    "seller":"Meesho",
+    "stock":15
+}
+
+
+]
